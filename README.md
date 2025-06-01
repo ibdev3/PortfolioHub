@@ -48,6 +48,12 @@ portfoliohub/
 
 ---
 
+## 📽️ Vídeo da Apresentação
+
+🔗 [Clique aqui para assistir ao vídeo da apresentação final](https://youtu.be/ipc2VTwPixE)
+
+---
+
 ## 🔗 Links Importantes
 
 - 📁 Google Drive do Projeto: [Acessar pasta](https://drive.google.com/drive/folders/1GBVYTmf3YCXa1i4hqqqefgc-nSafzUZZ?usp=drive_link)  
