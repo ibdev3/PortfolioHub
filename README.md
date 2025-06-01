@@ -40,22 +40,17 @@ portfoliohub/
 
 | Etapa                            | Data          |
 |----------------------------------|---------------|
-| Configuração do Ambiente         | 22/04/2024    |
-| Desenvolvimento da plataforma    | 24/04/2024    |
-| Revisão Final e Testes           | 26/04/2024    |
+| Configuração do Ambiente         | 26/05/2024    |
+| Desenvolvimento da plataforma    | 28/05/2024    |
+| Revisão Final e Testes           | 30/05/2024    |
 | Apresentação e Entrega Final     | 01/06/2025    |
 
----
-
-## 📽️ Vídeo da Apresentação
-
-🔗 [Clique aqui para assistir ao vídeo da apresentação final](https://link-do-video-aqui.com)
 
 ---
 
 ## 🔗 Links Importantes
 
-- 📁 Google Drive do Projeto: [Acessar pasta](https://drive.google.com/drive/folders/1ok_4KtDjTOYdyRba27g4At6Do20I4EZk)  
+- 📁 Google Drive do Projeto: [Acessar pasta](https://drive.google.com/drive/folders/1GBVYTmf3YCXa1i4hqqqefgc-nSafzUZZ?usp=drive_link)  
 - 🧠 Gemini (IA do Google): utilizado para geração de ideias e planejamento  
 
 
@@ -63,7 +58,7 @@ portfoliohub/
 
 ## 👤 Autor
 
-- **Nome:** Davi Victor Dantas  
-- **RA:** 22504526  
+- **Nome:** Inácio Barros de Sousa  
+- **RA:** 22509716
 - **Curso:** Bootcamp I – UniCEUB 2025  
 - **Professor:** Marcelo Carboni Gomes
